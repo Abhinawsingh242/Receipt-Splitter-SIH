@@ -6,6 +6,10 @@ A web application that makes it easy to split receipts and shared expenses among
 
 Receipt Splitter helps groups of friends, roommates, or colleagues quickly divide the cost of a shared bill. Upload or enter a receipt, assign items to people, and instantly see who owes what.
 
+## 📸 Preview
+
+
+
 ## ✨ Features
 
 - 📤 Upload or manually enter receipt details
