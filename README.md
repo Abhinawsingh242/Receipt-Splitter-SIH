@@ -17,9 +17,13 @@ Receipt Splitter helps groups of friends, roommates, or colleagues quickly divid
 ## 🗂️ Project Structure
 Receipt-Splitter/
 ├── backend/ # Server-side code (API, business logic, database)
+
 ├── frontend/ # Client-side code (UI, components, pages)
+
 ├── .env # Environment variables (not tracked in git)
+
 ├── .gitignore # Files/folders excluded from git
+
 └── README.md # Project documentation
 
 
