@@ -5,8 +5,6 @@
 A web application that makes it painless to split receipts and shared expenses among multiple people — no more manual math, no more awkward "wait, who ordered the extra fries?" conversations.
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![PRs](https://img.shields.io/badge/PRs-welcome-orange)
 
 ---
 
@@ -148,11 +146,6 @@ Please open an issue first for major changes so we can discuss the approach.
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) — feel free to use, modify, and distribute it.
-
----
 
 ## 👤 Author
 
