@@ -2,6 +2,7 @@
 
 **Split bills. Not friendships.**
 
+
 A web application that makes it painless to split receipts and shared expenses among multiple people — no more manual math, no more awkward "wait, who ordered the extra fries?" conversations.
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
