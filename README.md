@@ -39,6 +39,8 @@ Built for roommates settling monthly bills, friend groups after a dinner out, co
 
 ## 🗂️ Project Structure
 
+
+
 ```
 Receipt-Splitter/
 ├── backend/          # Server-side code (API, business logic, database)
@@ -47,6 +49,8 @@ Receipt-Splitter/
 ├── .gitignore        # Files/folders excluded from git
 └── README.md         # Project documentation
 ```
+
+
 
 ---
 
