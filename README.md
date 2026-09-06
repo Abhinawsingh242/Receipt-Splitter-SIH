@@ -15,6 +15,8 @@ A web application that makes it painless to split receipts and shared expenses a
 
 ## 📌 Overview
 
+
+
 Splitting a group bill is simple in theory and chaotic in practice — someone forgets what they ordered, someone else did the math wrong, and tax/tip never seems to add up right. **Receipt Splitter** fixes that.
 
 Upload or manually enter a receipt, assign items to the people who ordered them (or just split everything evenly), and get an instant, accurate breakdown of who owes what — down to the last cent of tax and tip.
