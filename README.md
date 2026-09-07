@@ -12,9 +12,7 @@ A web application that makes it painless to split receipts and shared expenses a
 ---
 
 
-
 ## 📌 Overview
-
 
 
 Splitting a group bill is simple in theory and chaotic in practice — someone forgets what they ordered, someone else did the math wrong, and tax/tip never seems to add up right. **Receipt Splitter** fixes that.
